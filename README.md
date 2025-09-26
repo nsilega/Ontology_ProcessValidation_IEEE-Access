@@ -22,7 +22,7 @@ This repository contains all the scripts required to reproduce the results prese
 | -------------  |------------- |
 | Ontology_ProcessValidation.owl  |  This file contains the developed ontology to represent and validate business process models. This ontology can be opened with the tool Protégé. In Protégé is possible to see the components of the ontology (classes, properties, restrictions and instances) that were explained in the paper. |
 | Process_Models.zip   | This file contains the processees that wer used to test the ontology|
-| ATL_Project.zip   | The ATL project developed to support the transformation from BPMN models to OWL|
+
 
 ## ✉️ Contact
 For questions about the results:
